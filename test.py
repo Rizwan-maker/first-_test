@@ -4,6 +4,3 @@ integer=str(num_chr)
 
 
 print("helo git ")
-
-
-print("merge brancah")
