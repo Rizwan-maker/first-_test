@@ -4,3 +4,8 @@ integer=str(num_chr)
 
 
 print("helo git ")
+
+print("fialkfj;lajkdash'")
+
+
+print("fdsjg;kdh;kjhsdjg;")
